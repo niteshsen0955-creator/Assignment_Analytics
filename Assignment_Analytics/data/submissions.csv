@@ -1,0 +1,7 @@
+submission_id,assignment_id,student_id,submission_date,score,status
+SUB1,A1,S101,2023-11-28,95,Submitted
+SUB2,A1,S102,2023-11-29,85,Submitted
+SUB3,A2,S101,2023-12-05,92,Submitted
+SUB001,A001,S001,2023-10-30,95,Submitted
+SUBIU2441230001,IU2441230001,IU2441230001,2026-10-05,9,Submitted
+SUB386,A3,IU2441230386,2026-10-07,9,Submitted
